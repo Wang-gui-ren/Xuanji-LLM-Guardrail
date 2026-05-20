@@ -13,7 +13,7 @@
 - 推荐仓库名：`xuanji-llm-guardrails`
 - 当前首发版本：`v1.0.0`
 - 作者：`YunMeng`
-- GitHub 仓库地址模板：`https://github.com/your-github-username/xuanji-llm-guardrails`
+- GitHub 仓库地址模板：`https://github.com/Wang-gui-ren/Xuanji-LLM-Guardrail`
 - GitHub 描述：
   `Guardrail plugin for AstrBot and LLM agents with input filtering, output moderation, tool-chain protection, audit logs, and safety knowledge evolution.`
 
